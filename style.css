@@ -30,8 +30,23 @@ body::before {
   opacity: 0.2;
 }
 
+/* .container {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 24px;
+  border: 1px solid #2ea513;
+  box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
+  background-image: url("img/Ruido.png");
+  background-size: 100% 100%;
+  position: relative;
+} */
+
 .container {
   width: 80%;
+  max-width: 900px; /* Defina uma largura máxima */
   height: 80%;
   display: flex;
   align-items: center;
@@ -44,12 +59,21 @@ body::before {
   position: relative;
 }
 
-.container__conteudo {
+
+/* .container__conteudo {
   display: flex;
   align-items: center;
   position: absolute;
   bottom: 0;
+} */
+.container__conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; /* Centralizar o conteúdo verticalmente */
+  position: relative;
 }
+
 
 .container__informacoes {
   flex: 1;
@@ -86,6 +110,7 @@ body::before {
   font-size: 24px;
   font-weight: 700;
   font-family: "Inter", sans-serif;
+  min-width: 200px;
 }
 
 .container__botoes {
@@ -120,20 +145,27 @@ button:disabled {
 
 @media screen and (max-width: 1250px) {
   h1 {
-    font-size: 50px;
+      font-size: clamp(40px, 5vw, 60px); /* Escala a fonte entre 40px e 60px */
+    
   }
 
   .container__botao {
     font-size: 16px;
+    min-width: 100px;
   }
 
   .texto__paragrafo {
     font-size: 24px;
   }
 
-  .container__imagem-pessoa {
+  /* .container__imagem-pessoa {
     display: none;
+  } */
+  .container__imagem-pessoa {
+    max-width: 100%;
+    height: auto;
   }
+  
 
   .container__conteudo {
     display: block;
