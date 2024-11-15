@@ -161,7 +161,7 @@ button:disabled {
     display: none;
   } */
   .container__imagem-pessoa {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
   }
   
