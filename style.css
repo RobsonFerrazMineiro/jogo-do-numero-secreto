@@ -134,8 +134,7 @@ button:disabled {
   .container__imagem-pessoa {
     display: flex;
     margin: auto;
-    padding-top: 5px;
-    width: 70%;
+    width: 63%;
   }
 
   .container__conteudo {
