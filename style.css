@@ -132,9 +132,7 @@ button:disabled {
   }
 
   .container__imagem-pessoa {
-    display: flex;
-    margin: auto;
-    width: 63%;
+    display: none;
   }
 
   .container__conteudo {
