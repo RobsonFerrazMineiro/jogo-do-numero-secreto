@@ -55,6 +55,8 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 - GitHub: [RobsonFerrazMineiro](https://github.com/RobsonFerrazMineiro)
 - Email: [robson_r_f@hotmail.com](mailto:robson_r_f@hotmail.com)
+- LinkedIn: [Robson Ferraz Mineiro](https://www.linkedin.com/in/robson-ferraz-mineiro/)
+- Instagram:[robsonfmofcial](https://www.instagram.com/robsonfmofcial/)
 
 ---
 
