@@ -4,12 +4,12 @@ Bem-vindo ao Jogo Secreto! Este é um jogo de advinhação, onde o jogador deve 
 
 ## 📋 Índice
 
-- [🔍 Sobre o Jogo](#sobre-o-jogo)
+- [🔍 Sobre o Jogo](#🔍-Sobre-o-Jogo)
 - [⚙️ Instalação](#instalação)
 - [🎮 Como Jogar](#como-jogar)
 - [🤝 Contribuindo](#contribuindo)
 - [📜 Licença](#licença)
-- [📬 Contato](#contato)
+- [📬 Contato](#📬-Contato)
 
 ## 🔍 Sobre o Jogo
 
