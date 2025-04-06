@@ -1,6 +1,16 @@
 # 🕵️ Jogo Secreto
 
-Bem-vindo ao Jogo Secreto! Este é um jogo de advinhação, onde o jogador deve acertar o número aleatório escolhiodo pelo sistema, atualmente o menor número é 1 o maior é 10.
+![Badge](https://img.shields.io/badge/Projeto-Jogo%20Secreto-blue)
+
+## Descrição
+
+Bem-vindo ao Jogo Secreto! Este é um jogo de adivinhação, onde o jogador deve acertar o número aleatório escolhido pelo sistema, atualmente o menor número é 1 e o maior é 10. O Jogo Secreto é um projeto de código aberto desenvolvido para proporcionar uma experiência de jogo intrigante e desafiadora, a experiência é melhor em grupo, quem acerta primeiro ganha.
+
+## Tecnologias Utilizadas
+
+![HTML](https://img.shields.io/badge/HTML-41.8%25-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-30.2%25-yellow)
+![CSS](https://img.shields.io/badge/CSS-28%25-blue)
 
 ## 📋 Índice
 
@@ -13,7 +23,8 @@ Bem-vindo ao Jogo Secreto! Este é um jogo de advinhação, onde o jogador deve 
 
 ## 🔍 Sobre o Jogo
 
-O Jogo Secreto é um projeto de código aberto desenvolvido para proporcionar uma experiência de jogo intrigante e desafiador, a experiencia é melhor em grupo, quem acerta primeiro ganha.
+O Jogo Secreto é um projeto de código aberto desenvolvido para proporcionar uma experiência de jogo intrigante e desafiadora, a experiência é melhor em grupo, quem acerta primeiro ganha.
+
 ## ⚙️ Instalação
 
 Siga os passos abaixo para instalar o jogo localmente:
